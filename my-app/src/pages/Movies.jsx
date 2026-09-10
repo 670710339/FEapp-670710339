@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { movies } from '../data';
+import { movies } from '../Data/data';
 
 function Movies() {
   return (
